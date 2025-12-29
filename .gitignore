@@ -11,7 +11,28 @@ local.properties
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
-.cxx/
+.cxx/<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KT GAMERZ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <img src="profile.png" class="profile">
+    <h1>KT GAMERZ</h1>
+    <p>🔥 Support Your Team 🔥<br>All Members Join Us</p>
+
+    <a href="#" class="btn">▶ YouTube – 1M+ Target 🎯</a>
+    <a href="#" class="btn">💬 WhatsApp – 100K+ Target 🎯</a>
+    <a href="#" class="btn">📸 Instagram – 100K+ Target 🎯</a>
+    <a href="#" class="btn">✈ Telegram – 100K+ Target 🎯</a>
+</div>
+
+</body>
+</html>
 *.aab
 *.apk
 output-metadata.json
